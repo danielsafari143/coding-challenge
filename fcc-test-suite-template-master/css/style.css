@@ -10,12 +10,20 @@ body{
     background-color: #303841;
     width: 400px;
     cursor: pointer;
-    color: white;
-  
+    color: white;    
+  margin : 5px;
   }
   a{
     color: white;
   }
 #contact {
     color: white;
-}  
+} 
+#work-sample { 
+display: flex;
+flex-wrap: wrap;
+
+}
+#sample h4{
+  text-align: center;
+}
