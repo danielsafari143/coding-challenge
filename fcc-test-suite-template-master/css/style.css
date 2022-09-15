@@ -1,0 +1,21 @@
+body{
+    background-color: #45567d;
+}
+#sample img{  
+    
+    height:200px;
+    margin: 0 
+  }
+  #sample{
+    background-color: #303841;
+    width: 400px;
+    cursor: pointer;
+    color: white;
+  
+  }
+  a{
+    color: white;
+  }
+#contact {
+    color: white;
+}  
